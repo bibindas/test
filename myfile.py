@@ -5,3 +5,5 @@ def test():
 
 def testlatheef():
 	return True
+def tests():
+	return ""
